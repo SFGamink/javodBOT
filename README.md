@@ -5,8 +5,8 @@
 # Fitur BOT :
 
 - Auto Claim Farm
-- Auto Upgrade ( SOON )
-- Auto Clear Task ( SOON )
+- Auto Upgrade 
+- Auto Clear Task 
 - Multiakun ( insyaallah )
 
 # Cara Penggunaan :
